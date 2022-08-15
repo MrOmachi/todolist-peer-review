@@ -40,7 +40,7 @@ Give a ⭐️ if you like this project!!
 
 - [Microverse](https://microverse.org)
 - Inspiration
-- etc
+- etc.
 
 ## 📝 License
 
